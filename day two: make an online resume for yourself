@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>个人简历</title>
+</head>
+	
+
+<body bgcolor="#9D6B6C">
+	<h1 align="center">Yuanyuan Chen(Abbey)</h1>
+	<p st align="center">100-0000-0000|abbey@jobmile.vip</p>
+	<h2><strong>SUMMARY</strong></h2>
+	<hr/>
+	<ul>
+		<li>Xth year student at XX University, experienced in user surveys / editorials / sales representative / customer services / event planning</li>
+		<li>Capable of SPSS/Python/XXX and proficient in Excel/PowerPoint/XXX tools/software; Adept at writing skills/design capability/XXX</li>
+		<li>Able to commit X days/week, up to X months</li>
+	</ul>
+	<br/>
+	<h2>EDUCATION</h2>
+	<hr/>
+	<p><b>University Name </b></p>
+		<ul>
+			<li>GPA：X.X / 4.0 (Top X%) [leave out if below 3.0]</li>
+			<li>Honors/Awards: XX Scholarship (2012-2014), XX Leadership Award [consolidate to nomore than 1 line]</li>
+			<li>Relevant Coursework: [Optional, stay relevant to the job you're applying for, no more than 2 lines, and no need for individual grades]</li>
+	
+	
+</body>
+</html>
